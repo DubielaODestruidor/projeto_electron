@@ -1,2 +1,2 @@
 # projeto_electron
-Electron +Type front and Python backenb
+Electron + Type front and Python backenb
